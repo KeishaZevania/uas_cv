@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+numpy
+pandas
+opencv-python-headless
+scikit-image
+scipy
+scikit-learn
+matplotlib
+seaborn
+joblib
+kagglehub
